@@ -1,0 +1,8 @@
+{
+  "name": "HealthGuard",
+  "description": "A privacy-first, multimodal health assistant for physical symptom triage and emotional distress detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
